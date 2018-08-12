@@ -1,0 +1,16 @@
+# Site settings
+title:          "Photography | Abhishek Balam"
+description:    "A collection of interesting pictures I clicked."
+baseurl:        ""
+url:            "https://photos.abhishekbalam.xyz/"
+
+# Author
+author:
+  name:         Abhishek Balam
+  url:          https://abhishekbalam.xyz
+  email:        abhishekbalam96@gmail.com
+
+# Build settings
+markdown: kramdown
+
+port: 4000
